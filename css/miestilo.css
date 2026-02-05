@@ -1,0 +1,76 @@
+.icon-lg {
+    font-size: 50px;
+    color: #198754;
+}
+
+#topbar {
+    background-color: darksalmon;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#topbar span {
+    color: white;
+    margin-right: 60px;
+    font-weight: bold;
+}
+.icon-blanco {
+    color: white;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+#hero{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #09947805;
+}
+.img-redonda{
+    border-radius: 20px;
+}
+#iconos{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.icono-redondo{
+    font-size: 80px;
+    border-radius: 55px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #198754;
+}
+.titulo-about{
+   text-align: center;
+   margin-bottom: 50px;
+}
+.numeros{
+    font-size: 60px;
+    color: #198754;
+    font-weight: lighter;
+}
+.letras-gris{
+    color: #444444;
+    text-transform: uppercase;
+}
+#newsletter{
+    color: #099478;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+#footer{
+    background-color: #e9ecef;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.lista-secciones{
+    list-style: none;
+    color: #6c757d;
+}
+.lista-servicios{
+    list-style: none;
+    color: #6c757d;
+}
+.redes-sociales{
+    color: #6c757d;
+}
